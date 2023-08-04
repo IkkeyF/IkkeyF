@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center">
+Sobre mim</p>
 
-<!--
-**IkkeyF/IkkeyF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Olá, me chamo Diego e sou um estudante de 17 anos e estou começando na área da programação</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  Linguagens<br><br>Kotlin, Java Script (construct), CSS</p>
+
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,js,css)](https://skillicons.dev)
+
+<hr>
+
+  <p align="center"> 
+  Ferramentas<br><br>Construct 3, Android Studio, Intellij, Figma</p>
+  
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
+  
