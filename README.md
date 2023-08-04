@@ -5,8 +5,8 @@ Olá, me chamo Diego e sou um estudante de 17 anos e estou começando na área d
 
 <hr>
 
-## <p align="center"> Linguagens<p/>
-<p align="center"> Kotlin, Java Script (construct), CSS</p>
+<h2> <p align="center"> Linguagens<p/></h2>
+<p align="center"> Kotlin, Java Script (construct), CSS</p> 
 
   [![My Skills](https://skillicons.dev/icons?i=kotlin,js,css)](https://skillicons.dev)
 
