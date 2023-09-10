@@ -1,4 +1,4 @@
-# Sobre mim
+# About Me
 > **Hi, my name is Diego and I'm a 17 year old student and I'm just starting out in the programming field.**
 
 ## Languages & Skills
