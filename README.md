@@ -2,9 +2,9 @@
 > **Hi, my name is Diego and I'm a 17 year old student and I'm just starting out in the programming field.**
 
 ## Languages & Skills
-+ **Kotlin, Java, Android Studio, Java Script, Contruct 3, Unity 2D/3D, HTML/CSS.**
++ **Kotlin, Android Studio, Java Script, Contruct 3, Unity 2D/3D, HTML/CSS.**
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,js,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,js,css)](https://skillicons.dev)
 
 ##  Tools
 + **Intellij, Figma, VSCode.**  
