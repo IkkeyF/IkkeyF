@@ -9,4 +9,4 @@
 ##  Tools
 + **Intellij, Figma, VSCode.**  
 
-[![My Skills](https://skillicons.dev/icons?i=idea,figma,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=idea,figma,vscode)](https://skillicons.dev)
