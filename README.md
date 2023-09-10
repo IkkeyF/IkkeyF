@@ -10,3 +10,7 @@
 + **Intellij, Figma, VSCode.**  
 
 [![My Tools](https://skillicons.dev/icons?i=idea,figma,vscode)](https://skillicons.dev)
+
+##  Github Stats
+
+![IkkeyF Github Stats](https://github-readme-stats.vercel.app/api?username=IkkeyF&count_private=true&show_icons=true&theme=dracula)
