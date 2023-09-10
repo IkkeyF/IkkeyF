@@ -1,19 +1,12 @@
-## <p align="center">Sobre mim </p>
+# Sobre mim
+> **Hi, my name is Diego and I'm a 17 year old student and I'm just starting out in the programming field.**
 
-<p align="center">
-Olá, me chamo Diego e sou um estudante de 17 anos e estou começando na área da programação</p>
+## Languages & Skills
++ **Kotlin, Java, Android Studio, Java Script, Contruct 3, Unity 2D/3D, HTML/CSS**
 
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,android,js,css)](https://skillicons.dev)
 
-<h2> <p align="center"> Linguagens<p/></h2>
-<p align="center"> Kotlin, Java Script (construct), CSS</p> 
+##  Tools
++ **Intellij, Figma, VSCode**  
 
-  [![My Skills](https://skillicons.dev/icons?i=kotlin,js,css)](https://skillicons.dev)
-
-<hr>
-
-##  <p align="center"> Ferramentas
-<p align="center"> Construct 3, Android Studio, Intellij, Figma</p>
-  
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=idea,figma,vscode)](https://skillicons.dev)
